@@ -1,0 +1,5 @@
+{
+  "name": "BOM Extractor AI",
+  "description": "Extract Bill of Materials (BOM) tables directly from engineering drawings and blueprints using Gemini AI.",
+  "requestFramePermissions": []
+}
